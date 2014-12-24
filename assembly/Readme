@@ -1,0 +1,18 @@
+Author: Ryan Lafferty
+
+***********
+Compilation
+***********
+To compile the programs in the following directories, type make or make all
+in the root directory of each of the programs.
+
+*******
+Running
+*******
+To run the programs type ./run in the root directory of each of the programs.
+
+**********
+Display r0
+**********
+To display r0 you may run the program(s) with the following line below:
+./run ; echo $?
