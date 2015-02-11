@@ -1,0 +1,6 @@
+Running: gdb --args ./myProg
+Disassemble code: disassemble or disas
+register info: info registers rx
+print: p item -> item can be a pointer to an address, register ect
+step: stepi
+run to breakpoint or end: continue
